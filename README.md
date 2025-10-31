@@ -4,6 +4,8 @@ Self-taught developer since the pandemic. I build libraries that are as fast as 
 
 Everything is Python at the surface, but I write CUDA or C underneath when Python alone isn't fast enough.
 
+Currently building a B2B personalized products company. I keep the business-specific 
+code private, but share the general-purpose libraries I create along the way.
 ## Projects
 
 ### [PhotoFF](https://github.com/offerrall/photoff) GPU-Accelerated
