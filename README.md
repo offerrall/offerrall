@@ -96,11 +96,11 @@ Simple library for controlling CNC machines with GRBL firmware.
 ---
 
 ### [PyAlias](https://github.com/offerrall/PyAlias-Windows-Alias-Manager)
-Fast, persistent command aliases for Windows that behave like real native commands.
-
-- Works in **cmd.exe, PowerShell, Git Bash, MSYS, WSL** — no shell-specific hacks
-- Each alias is a tiny **native .exe** that executes instantly
-- Pure Python setup, but the launcher is **written in C for speed**
+PyAlias
+Command aliases for Windows that actually work like native commands.
+- 21x faster than .bat files
+- Works in any terminal
+- Zero startup overhead
 
 ---
 
