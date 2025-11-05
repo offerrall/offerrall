@@ -100,7 +100,7 @@ Fast, persistent command aliases for Windows that behave like real native comman
 
 - Works in **cmd.exe, PowerShell, Git Bash, MSYS, WSL** — no shell-specific hacks
 - Each alias is a tiny **native .exe** that executes instantly
-- Pure Python setup, but the launcher core is **written in C for speed**
+- Pure Python setup, but the launcher is **written in C for speed**
 
 ---
 
