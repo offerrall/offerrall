@@ -14,7 +14,6 @@ High-performance CUDA image processing library. Real-time filters, blending, and
 - **Order-of-magnitude faster** than PIL/Pillow (see [benchmarks](https://offerrall.github.io/photoff/benchmarks/))
 - **Smart memory management** - allocate once, reuse efficiently
 - **Zero GPU-CPU copies** - everything stays on GPU
-- Originally built for custom OBS-style rendering engine
 
 ⚡ **Next generation in development:** Pure Python.h API (no CFFI), FFmpeg integration, DirectX/OpenGL interop without GPU→CPU copies
 
@@ -27,7 +26,7 @@ Transform any Python function into a complete web app automatically. Just type h
 
 - **454 tests passing** - battle-tested reliability
 - **Zero configuration** - working web app in 30 seconds
-- Auto-generated forms, file uploads, dark mode, validation, plots, downloads
+- Auto-generated forms, file uploads, dark mode, validation, plots, downloads...
 
 ```python
 from func_to_web import run
@@ -67,8 +66,6 @@ Simple Python server deployment toolkit. Deploy to remote servers with just a fe
 - Built on Fabric - mix with pure Fabric commands
 - Supervisor service management
 
-⚠️ Early stage - APIs may change
-
 ---
 
 ### [gcode-bounds](https://github.com/offerrall/gcode-bounds)
@@ -103,8 +100,7 @@ Fast, persistent command aliases for Windows that behave like real native comman
 
 - Works in **cmd.exe, PowerShell, Git Bash, MSYS, WSL** — no shell-specific hacks
 - Each alias is a tiny **native .exe** that executes instantly
-- **3× faster** than using `.bat` script aliases (no cmd.exe startup overhead)
-- Persistent across sessions, folders, restarts
+- **3× faster** than using `.bat` script aliases
 - Pure Python setup, but the launcher core is **written in C for speed**
 
 ---
