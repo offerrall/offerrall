@@ -96,6 +96,8 @@ Simple library for controlling CNC machines with GRBL firmware.
 - Auto-recovery from alarms
 - Auto-disconnect detection
 
+---
+
 ### [PyAlias](https://github.com/offerrall/PyAlias-Windows-Alias-Manager)
 Fast, persistent command aliases for Windows that behave like real native commands.
 
