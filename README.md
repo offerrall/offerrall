@@ -104,6 +104,15 @@ Command aliases for Windows that actually work like native commands.
 
 ---
 
+### [pywinselect](https://github.com/offerrall/pywinselect)
+Get selected files and folders in Windows. One line of code.
+
+- **Safe by design** - read-only Windows Shell COM APIs, no keyboard simulation
+- **Works everywhere** - File Explorer and Desktop
+- **Zero side effects** - no clipboard modifications or system state changes
+
+---
+
 ## Contributing
 
 Pull requests welcome. I appreciate clear issues, minimal examples, and focused PRs.
