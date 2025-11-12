@@ -41,7 +41,7 @@ run(divide)  # → http://127.0.0.1:8000
 
 ---
 
-### [FuncToGUI](https://github.com/offerrall/FuncToGUI)
+### [FuncToGUI](https://github.com/offerrall/FuncToGUI) 90 stars
 Turn Python functions into desktop GUI applications. The original version that inspired FuncToWeb.
 
 - Cross-platform (Windows, macOS, Linux)
