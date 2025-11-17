@@ -21,7 +21,7 @@ High-performance CUDA image processing library. Real-time filters, blending, and
 
 ---
 
-### [FuncToWeb](https://github.com/offerrall/FuncToWeb) 220 stars
+### [FuncToWeb](https://github.com/offerrall/FuncToWeb) +300 stars
 Transform any Python function into a complete web app automatically. Just type hints and `run()`.
 
 - **454 tests passing** - battle-tested reliability
