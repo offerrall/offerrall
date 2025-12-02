@@ -8,16 +8,16 @@ Currently building a B2B personalized products company. I keep the business-spec
 code private, but share the general-purpose libraries I create along the way.
 ## Projects
 
-### [PhotoFF](https://github.com/offerrall/photoff) GPU-Accelerated
-High-performance CUDA image processing library. Real-time filters, blending, and compositing - all on GPU.
+### [PyImageCUDA](https://github.com/offerrall/pyimagecuda)
+**GPU-accelerated image compositing for Python.**
 
-- **Order-of-magnitude faster** than PIL/Pillow (see [benchmarks](https://offerrall.github.io/photoff/benchmarks/))
-- **Smart memory management** - allocate once, reuse efficiently
-- **Zero GPU-CPU copies** - everything stays on GPU
+- **Zero Dependencies:** Works with standard NVIDIA drivers (No CUDA Toolkit/Visual Studio required).
+- **Studio Quality:** 32-bit float precision throughout the pipeline.
+- **Massive Speedups:** 10-200x faster than CPU for blur, blends, and transforms.
+- **Smart Memory:** Buffer reuse for zero-allocation video/batch processing.
+- **Rich Features** - +40 operations (gradients, blend modes, effects...)
 
-⚡ **Next generation in development:** Pure Python.h API (no CFFI), FFmpeg integration, DirectX/OpenGL interop without GPU→CPU copies
-
-[📖 Full Documentation](https://offerrall.github.io/photoff/)
+[Full Documentation](https://offerrall.github.io/pyimagecuda/)
 
 ---
 
@@ -37,7 +37,7 @@ def divide(a: int, b: int):
 run(divide)  # → http://127.0.0.1:8000
 ```
 
-[📖 Full Documentation](https://offerrall.github.io/FuncToWeb) • [PyPI Package](https://pypi.org/project/func-to-web/)
+[Full Documentation](https://offerrall.github.io/FuncToWeb) • [PyPI Package](https://pypi.org/project/func-to-web/)
 
 ---
 
