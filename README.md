@@ -39,7 +39,7 @@ def divide(a: int, b: int):
 run(divide)  # → http://127.0.0.1:8000
 ```
 
-[Full Documentation](https://offerrall.github.io/FuncToWeb) • [PyPI Package](https://pypi.org/project/func-to-web/)
+[Full Documentation](https://offerrall.github.io/FuncToWeb)
 
 ---
 
