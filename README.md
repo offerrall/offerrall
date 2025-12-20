@@ -1,11 +1,10 @@
 # Hi, I'm Offerrall
 
-Self-taught developer since the pandemic. I build libraries that are as fast as I can make them, improving as I learn.
+Self-taught developer since 2020. I enjoy building tools to solve my own problems and sharing them here in case they help others.
 
-Everything is Python at the surface, but I write CUDA or C underneath when Python alone isn't fast enough.
+I write mostly in Python, dipping into C or CUDA only when I really need the extra speed.
 
-Currently building personalized products company. I keep the business-specific 
-code private, but share the general-purpose libraries I create along the way.
+Currently building a personalized products business. I open-source the general tools I create along the way.
 ## Projects
 
 **Contact:** [@Offedev](https://twitter.com/Offedev) on Twitter
