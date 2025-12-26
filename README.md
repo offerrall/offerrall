@@ -22,7 +22,16 @@ Currently building a personalized products business. I open-source the general t
 
 ---
 
-### [FuncToWeb](https://github.com/offerrall/FuncToWeb) +300 stars
+### [PyImageCUDA Studio](https://github.com/offerrall/pyimagecuda-studio)
+**Visual node editor built on PyImageCUDA with headless automation.**
+- **40+ GPU nodes** - Design image pipelines visually with real-time preview
+- **Python automation** - Export templates and generate thousands of variations
+- **Global variables** - Parameterize templates for batch processing
+- **CUDA-OpenGL preview** - Zero-copy GPU rendering
+
+---
+
+### [FuncToWeb](https://github.com/offerrall/FuncToWeb) +340 stars
 Transform any Python function into a complete web app automatically. Just type hints and `run()`.
 
 - **454 tests passing** - battle-tested reliability
