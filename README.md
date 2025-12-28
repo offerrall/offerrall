@@ -78,6 +78,15 @@ Simple Python server deployment toolkit. Deploy to remote servers with just a fe
 
 ---
 
+### [pygrbl-streamer](https://github.com/offerrall/pygrbl_streamer)
+Simple library for controlling CNC machines with GRBL firmware.
+
+- Intelligent buffer management
+- Auto-recovery from alarms
+- Auto-disconnect detection
+
+---
+
 ### [gcode-bounds](https://github.com/offerrall/gcode-bounds)
 Fast G-code bounding box generator and framing tool in pure C.
 
@@ -93,15 +102,6 @@ Fast Python logger with optional Telegram notifications. Separate channels for r
 
 - **195k logs/sec (Linux) / 80k logs/sec (Windows)**
 - Thread-safe with crash protection
-
----
-
-### [pygrbl-streamer](https://github.com/offerrall/pygrbl_streamer)
-Simple library for controlling CNC machines with GRBL firmware.
-
-- Intelligent buffer management
-- Auto-recovery from alarms
-- Auto-disconnect detection
 
 ---
 
