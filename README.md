@@ -78,6 +78,19 @@ Simple Python server deployment toolkit. Deploy to remote servers with just a fe
 
 ---
 
+### [pytypeinput](https://github.com/offerrall/pytypeinput)
+**Type-driven input validation and HTML form generation for Python.**
+
+- **Type-safe forms** - Generate validated HTML forms from dataclasses, Pydantic models, or function signatures
+- **Zero boilerplate** - Just type hints and constraints, no manual form building
+- **Rich validation** - Pattern matching, min/max values, custom error messages
+- **Dynamic choices** - Reload dropdown options without re-analyzing
+- **Customizable UI** - CSS variables, labels, descriptions, placeholders
+
+[Full Documentation](https://offerrall.github.io/pytypeinput)
+
+---
+
 ### [pygrbl-streamer](https://github.com/offerrall/pygrbl_streamer)
 Simple library for controlling CNC machines with GRBL firmware.
 
