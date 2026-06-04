@@ -31,7 +31,7 @@ Currently building a personalized products business. I open-source the general t
 
 ---
 
-### [FuncToWeb](https://github.com/offerrall/FuncToWeb) +340 stars
+### [FuncToWeb](https://github.com/offerrall/FuncToWeb) +410 stars
 Transform any Python function into a complete web app automatically. Just type hints and `run()`.
 
 - **454 tests passing** - battle-tested reliability
