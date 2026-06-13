@@ -59,7 +59,7 @@ pip install pywinselect
 
 ### logging / ops
 
-**[pytelegram_logger](https://github.com/offerrall/pytelegram_logger)** — async logger to file + Telegram; background queues (disk isolated from network), non-blocking with drop counters, zero dependencies.
+**[pytelegram_logger](https://github.com/offerrall/py-telegram-logger)** — async logger to file + Telegram; background queues (disk isolated from network), non-blocking with drop counters, zero dependencies.
 ```
-pip install pytelegram-logger
+pip install easy-tg-logger
 ```
