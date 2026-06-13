@@ -54,5 +54,12 @@ pip install pyeasydeploy
 
 **[pywinselect](https://github.com/offerrall/pywinselect)** — detects which files/folders are selected in Explorer or the Desktop, in one line (Windows-only).
 ```
-pip install git+https://github.com/offerrall/pywinselect
+pip install pywinselect
+```
+
+### logging / ops
+
+**[pytelegram_logger](https://github.com/offerrall/pytelegram_logger)** — async logger to file + Telegram; background queues (disk isolated from network), non-blocking with drop counters, zero dependencies.
+```
+pip install pytelegram-logger
 ```
