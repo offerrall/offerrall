@@ -49,3 +49,10 @@ pip install pyimagecuda-studio
 ```
 pip install pyeasydeploy
 ```
+
+### Windows
+
+**[pywinselect](https://github.com/offerrall/pywinselect)** — detects which files/folders are selected in Explorer or the Desktop, in one line (Windows-only).
+```
+pip install git+https://github.com/offerrall/pywinselect
+```
