@@ -63,3 +63,7 @@ pip install pywinselect
 ```
 pip install easy-tg-logger
 ```
+
+### webcams
+**[pyezcams](https://github.com/offerrall/pyezcams)** — minimal surveillance node: USB webcams → RTSP/WebRTC via MediaMTX, hardware-encoder auto-detection, native-H.264 passthrough, self-supervising. Linux only.
+
