@@ -57,6 +57,11 @@ pip install pyeasydeploy
 pip install pywinselect
 ```
 
+**[windowsctxmenu](https://github.com/offerrall/windowsctxmenu)** — add, remove and block Windows right-click context menu entries from Python; script your menu once, replay it on every PC or reinstall.
+```
+pip install windowsctxmenu
+```
+
 ### logging / ops
 
 **[pytelegram_logger](https://github.com/offerrall/py-telegram-logger)** — async logger to file + Telegram; background queues (disk isolated from network), non-blocking with drop counters, zero dependencies.
