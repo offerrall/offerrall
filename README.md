@@ -10,10 +10,6 @@ pip install pygrbl-build
 ```
 pip install pygrbl-streamer
 ```
-**[pygrbl_server](https://github.com/offerrall/pygrbl-server)** — FastAPI router and job engine for GRBL over HTTP; one job per port, live status, safety teardown.
-```
-pip install pygrbl-server
-```
 
 ### type hints → UI
 **[FuncToWeb](https://github.com/offerrall/FuncToWeb)** — turns Python functions into web apps from their type hints. 394★.
