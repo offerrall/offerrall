@@ -1,11 +1,3 @@
-**[pygrbl_build](https://github.com/offerrall/pygrbl_build)** — G-code generator for GRBL diode lasers (raster + SVG), ~350× faster than LaserGRBL.
-```
-pip install pygrbl-build
-```
-**[pygrbl_streamer](https://github.com/offerrall/PyGrbl_Streamer)** — streams G-code to GRBL over serial; constant memory, real-time control, auto-reconnect.
-```
-pip install pygrbl-streamer
-```
 **[FuncToWeb](https://github.com/offerrall/FuncToWeb)** — turns Python functions into web apps from their type hints. 394★.
 ```
 pip install func-to-web
@@ -18,6 +10,10 @@ pip install pytypehint
 ```
 pip install pytypehintweb
 ```
+**[pyeasydeploy](https://github.com/offerrall/pyeasydeploy)** — deploy Python apps to Linux servers over SSH in a few lines (on top of Fabric).
+```
+pip install pyeasydeploy
+```
 **[PyImageCUDA](https://github.com/offerrall/pyimagecuda)** — GPU image compositing; no CUDA Toolkit, ~1 MB, zero-copy interop.
 ```
 pip install pyimagecuda
@@ -26,9 +22,13 @@ pip install pyimagecuda
 ```
 pip install pyimagecuda-studio
 ```
-**[pyeasydeploy](https://github.com/offerrall/pyeasydeploy)** — deploy Python apps to Linux servers over SSH in a few lines (on top of Fabric).
+**[pygrbl_build](https://github.com/offerrall/pygrbl_build)** — G-code generator for GRBL diode lasers (raster + SVG), ~350× faster than LaserGRBL.
 ```
-pip install pyeasydeploy
+pip install pygrbl-build
+```
+**[pygrbl_streamer](https://github.com/offerrall/PyGrbl_Streamer)** — streams G-code to GRBL over serial; constant memory, real-time control, auto-reconnect.
+```
+pip install pygrbl-streamer
 ```
 **[pywinselect](https://github.com/offerrall/pywinselect)** — detects which files/folders are selected in Explorer or the Desktop, in one line (Windows-only).
 ```
