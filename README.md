@@ -1,4 +1,4 @@
-**[FuncToWeb](https://github.com/offerrall/FuncToWeb)** — turns Python functions into web apps from their type hints. 394★.
+**[FuncToWeb](https://github.com/offerrall/FuncToWeb)** — turns Python functions into web apps from their type hints. 425★.
 ```
 pip install func-to-web
 ```
