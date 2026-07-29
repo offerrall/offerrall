@@ -1,7 +1,3 @@
-# My Libraries
-> Python 3.10+ · MIT
-
-### pygrbl — GRBL toolkit
 **[pygrbl_build](https://github.com/offerrall/pygrbl_build)** — G-code generator for GRBL diode lasers (raster + SVG), ~350× faster than LaserGRBL.
 ```
 pip install pygrbl-build
@@ -10,24 +6,18 @@ pip install pygrbl-build
 ```
 pip install pygrbl-streamer
 ```
-
-### type hints → UI
 **[FuncToWeb](https://github.com/offerrall/FuncToWeb)** — turns Python functions into web apps from their type hints. 394★.
 ```
 pip install func-to-web
 ```
-
 **[pytypehint](https://github.com/offerrall/pytypehint)** — compiles Python type hints into strict, inspectable schemas; the dataclass is the single source of truth. Exact validation, fresh defaults, no coercion. Stdlib only, Python 3.11+.
 ```
 pip install pytypehint
 ```
-
 **[pytypehintweb](https://github.com/offerrall/pytypehintweb)** — turns a pytypehint schema into a web plan: JSON contract, browser widgets and transport. Nested forms, unions with branch selector, dynamic lists at any depth. No build step, unbundled ES modules.
 ```
 pip install pytypehintweb
 ```
-
-### GPU image
 **[PyImageCUDA](https://github.com/offerrall/pyimagecuda)** — GPU image compositing; no CUDA Toolkit, ~1 MB, zero-copy interop.
 ```
 pip install pyimagecuda
@@ -36,14 +26,10 @@ pip install pyimagecuda
 ```
 pip install pyimagecuda-studio
 ```
-
-### deploy
 **[pyeasydeploy](https://github.com/offerrall/pyeasydeploy)** — deploy Python apps to Linux servers over SSH in a few lines (on top of Fabric).
 ```
 pip install pyeasydeploy
 ```
-
-### Windows
 **[pywinselect](https://github.com/offerrall/pywinselect)** — detects which files/folders are selected in Explorer or the Desktop, in one line (Windows-only).
 ```
 pip install pywinselect
@@ -52,14 +38,10 @@ pip install pywinselect
 ```
 pip install windowsctxmenu
 ```
-
-### logging / ops
 **[pytelegram_logger](https://github.com/offerrall/py-telegram-logger)** — async logger to file + Telegram; background queues (disk isolated from network), non-blocking with drop counters, zero dependencies.
 ```
 pip install easy-tg-logger
 ```
-
-### webcams
 **[pyezcams](https://github.com/offerrall/pyezcams)** — minimal surveillance node: USB webcams → RTSP/WebRTC via MediaMTX, hardware-encoder auto-detection, native-H.264 passthrough, self-supervising. Linux only.
 ```
 pip install pyezcams
