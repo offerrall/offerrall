@@ -16,17 +16,15 @@ pip install pygrbl-streamer
 ```
 pip install func-to-web
 ```
-**[PyTypeInput](https://github.com/offerrall/pytypeinput)** — extracts UI metadata from type hints (engine behind FuncToWeb).
-```
-pip install pytypeinput
-```
-**[PyTypeInputWeb](https://github.com/offerrall/pytypeinputweb)** — renders validated HTML forms from that metadata (zero JS deps).
-```
-pip install pytypeinputweb
-```
+
 **[pytypehint](https://github.com/offerrall/pytypehint)** — compiles Python type hints into strict, inspectable schemas; the dataclass is the single source of truth. Exact validation, fresh defaults, no coercion. Stdlib only, Python 3.11+.
 ```
 pip install pytypehint
+```
+
+**[pytypehintweb](https://github.com/offerrall/pytypehintweb)** — turns a pytypehint schema into a web plan: JSON contract, browser widgets and transport. Nested forms, unions with branch selector, dynamic lists at any depth. No build step, unbundled ES modules.
+```
+pip install pytypehintweb
 ```
 
 ### GPU image
