@@ -10,6 +10,10 @@ pip install pytypehint
 ```
 pip install pytypehintweb
 ```
+**[pytypehintstore](https://github.com/offerrall/pytypehintstore)** — rows of one validated dataclass, in memory, shadowed by a JSON file you can open and edit; the class is the database. Atomic dumps, schema-fingerprinted files, stdlib only.
+```
+pip install pytypehintstore
+```
 **[pyeasydeploy](https://github.com/offerrall/pyeasydeploy)** — deploy Python apps to Linux servers over SSH in a few lines (on top of Fabric).
 ```
 pip install pyeasydeploy
