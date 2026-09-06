@@ -42,10 +42,6 @@ pip install pywinselect
 ```
 pip install windowsctxmenu
 ```
-**[pytelegram_logger](https://github.com/offerrall/py-telegram-logger)** — async logger to file + Telegram; background queues (disk isolated from network), non-blocking with drop counters, zero dependencies.
-```
-pip install easy-tg-logger
-```
 **[pyezcams](https://github.com/offerrall/pyezcams)** — minimal surveillance node: USB webcams → RTSP/WebRTC via MediaMTX, hardware-encoder auto-detection, native-H.264 passthrough, self-supervising. Linux only.
 ```
 pip install pyezcams
